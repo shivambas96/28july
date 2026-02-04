@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-04T16:56:24 IST" name="Default suite" finished-at="2026-02-04T16:56:27 IST" duration-ms="3567">
+    <groups>
+    </groups>
+    <test started-at="2026-02-04T16:56:24 IST" name="Default test" finished-at="2026-02-04T16:56:27 IST" duration-ms="3567">
+      <class name="testingbaba.BaseLibrary">
+        <test-method signature="LaunchUrl()[pri:0, instance:testingbaba.BaseLibrary@13c9d689]" started-at="2026-02-04T16:56:24 IST" name="LaunchUrl" finished-at="2026-02-04T16:56:27 IST" duration-ms="3500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchUrl -->
+      </class> <!-- testingbaba.BaseLibrary -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
